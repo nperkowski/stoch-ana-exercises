@@ -2,7 +2,8 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - ffmpeg
   - matplotlib
   - numpy
   - IPython
+  - libx264
+  - ffmpeg
