@@ -5,5 +5,4 @@ dependencies:
   - matplotlib
   - numpy
   - IPython
-  - libx264
   - ffmpeg
