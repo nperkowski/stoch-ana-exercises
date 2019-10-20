@@ -1,4 +1,4 @@
 dependencies:
   - numpy
   - matplotlib
-  - IPython.display
+  - IPython
