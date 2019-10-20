@@ -5,4 +5,4 @@ dependencies:
   - matplotlib
   - numpy
   - IPython
-  - ffmpeg
+  - ffmpeg=4.2
